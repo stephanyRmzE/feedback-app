@@ -6,6 +6,7 @@ import FeedbackForm from './components/FeedbackForm'
 import AboutIconLink from "./components/AboutIconLink"
 import AboutPage from './pages/AboutPage'
 import {FeedbackProvider} from "./components/context/FeedbackContext"
+import React from 'react'
 
 function App() {
   return (
